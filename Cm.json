@@ -1,0 +1,327 @@
+{
+  "client_params": {
+    "coppa_applies": false,
+    "is_child": false,
+    "bundle_id": "com.rayolesoftware.cashmafia",
+    "android_advertising_id": "f96773a6-fbcb-4342-89e9-8a9b2c1751b9",
+    "app_set_id": "cfb5cdd5-f4d8-02d1-6564-2e3266c34f13",
+    "app_set_id_scope": "app",
+    "publisher_supplied_user_id": "3wgTWt5AmQRs2YOLW3P4MugOIZf2",
+    "install_id": "03c4eb22-b597-490b-b587-b1eb4674d4dd",
+    "sdk_session_id": "e33cb17a-5665-4ef3-a5e1-1f7839d1d1b4",
+    "disable_marketplace": false,
+    "privacy": {
+      "do_not_track": false
+    }
+  },
+  "sdk_params": {
+    "api": [
+      5
+    ],
+    "protocols": [
+      2,
+      5
+    ]
+  },
+  "device_params": {
+    "height": 812,
+    "width": 411,
+    "language": "en",
+    "device_model": "samsung SM-A505F",
+    "framework_name": "native",
+    "input_languages": [
+      "en-US"
+    ]
+  },
+  "location_params": {
+    "mobile_country_code": "405",
+    "mobile_network_code": "872",
+    "network": "wifi",
+    "carrier": "JIO 4G"
+  },
+  "request_params": {
+    "version": "2.2.0-fairbid-android-3.62.0",
+    "secure": 0,
+    "supported_types_bitwise": 372,
+    "ad_request_id": "be6d3f3a-4279-4138-8f4c-e6826099f5a1"
+  },
+  "unit_params": {
+    "app_version": "1.1.41",
+    "placement_id": 2099493,
+    "unit_id": 2580347
+  },
+  "mediation_auction_data": {
+    "mediation_bids": [
+      {
+        "request_outcome": "no_fill",
+        "placement_id": "/22734621065,22897668942/gam-app-rayole-rv-17-cash-22dec25-set1",
+        "instance_data": {
+          "network_id": 924,
+          "network_instance_placement_id": 295958,
+          "predicted_ecpm": 7.667,
+          "ecpm_override": 7.92
+        },
+        "rank": 1
+      },
+      {
+        "request_outcome": "no_fill",
+        "placement_id": "/22734621065,22897668942/gam-app-rayole-rv-15-cash-22dec25-set1",
+        "instance_data": {
+          "network_id": 924,
+          "network_instance_placement_id": 295957,
+          "predicted_ecpm": 7.667,
+          "ecpm_override": 6.8
+        },
+        "rank": 2
+      },
+      {
+        "request_outcome": "timeout",
+        "placement_id": "/22734621065,22897668942/gam-app-rayole-rv-12.5-cash-22dec25-set1",
+        "instance_data": {
+          "network_id": 924,
+          "network_instance_placement_id": 295956,
+          "predicted_ecpm": 7.667,
+          "ecpm_override": 5.68
+        },
+        "rank": 3
+      },
+      {
+        "request_outcome": "timeout",
+        "placement_id": "/22734621065,22897668942/gam-app-rayole-rv-10-cash-22dec25-set1",
+        "instance_data": {
+          "network_id": 924,
+          "network_instance_placement_id": 295955,
+          "predicted_ecpm": 7.667,
+          "ecpm_override": 4.54
+        },
+        "rank": 4
+      },
+      {
+        "request_outcome": "fill",
+        "winner": true,
+        "placement_id": "/23326865470/ecpm_DEEPAK_D_7",
+        "instance_data": {
+          "network_id": 924,
+          "network_instance_placement_id": 295948,
+          "predicted_ecpm": 7.667,
+          "ecpm_override": 4
+        },
+        "rank": 5
+      }
+    ],
+    "pmn_bids": [
+      {
+        "pmn_id": "Inmobi_PMN",
+        "pmn_app_id": "c402601c3c044379b2bb05b6631cdb55",
+        "pmn_placement": "10000456454",
+        "pmn_session": "ZC10ZXh0c2l6ZT0zNy4wJnR6PTE5ODAwMDAwJmQtYXBpLWxldj0zMCZkLWJhdC1sZXY9MjUmYUtW\nPTEmZC1uZXR0eXBlLXJhdz0xJmQtZGV2aWNlLXNjcmVlbi1zaXplPTQxMVg4MTEmdS1hcHBzZWN1\ncmU9MCZzLWhvPTQwNV84NzImbG9jLWFsbG93ZWQ9MSZjb25zZW50T2JqZWN0PSU3QiU3RCZkLWRl\nbnNpdHktZGVwZW5kZW50LXNjcmVlbi1zaXplPTEwODB4MjEzMSZkLWJhdC1jaHJnPTAmZC1tYW51\nZmFjdHVyZXItbmFtZT1zYW1zdW5nJmlrPWFjJTJDYmlkJTJDaXRzJTJDdnRtJTJDcGxpZCUyQ2Nh\ndGlkJTJDaGNkJTJDaHN2JTJDaGN2JnUtaWQtbWFwPSU3QiUyMkdQSUQlMjIlM0ElMjJmOTY3NzNh\nNi1mYmNiLTQzNDItODllOS04YTliMmMxNzUxYjklMjIlN0QmZC1sb2NhbGl6YXRpb249ZW5fR0Im\nZC1kbmQ9MCZkLWxhbmd1YWdlPWVuJnMtY249SklPKzRHJnUtYWdlLXJlc3RyaWN0ZWQ9MCZzLWNv\nPTQwNV84NzImZC1rZXktbGFuZz0lNUIlMjJlbiUyMiU1RCZkLWJhdC1zYXY9MCZpbS1leHQ9JTdC\nJTIyY29wcGElMjIlM0FmYWxzZSUyQyUyMnB1YkdkcHJEcGFTaWduZWQlMjIlM0FmYWxzZSUyQyUy\nMmFwcGx5R2RwckFnZU9mQ29uc2VudCUyMiUzQWZhbHNlJTdEJmF1ZGlvT2JqZWN0PSU3QiUyMmEt\nYXVkaW9CYW5uZXJFbmFibGVkJTIyJTNBJTIydHJ1ZSUyMiU3RCZkLXctaD0wJm1rLXZlcnNpb249\ncHItU0FORC0xMC44LjctMjAyNTA3MzAmcy1pc289aW4mZC1hcHAtc2V0LWlkPWNmYjVjZGQ1LWY0\nZDgtMDJkMS02NTY0LTJlMzI2NmMzNGYxMyZzRGF0YT0lN0IlMjJzdCUyMiUzQTE3NjcyMTA2MDg1\nNDklMkMlMjJjbnQlMjIlM0EzJTJDJTIydS1yZXQlMjIlM0EwJTJDJTIyZGVwJTIyJTNBJTVCMCUy\nQzAlMkMwJTJDMCU1RCU3RCZ1LWFwcGJpZD1jb20ucmF5b2xlc29mdHdhcmUuY2FzaG1hZmlhJmgt\ndXNlci1hZ2VudD1Nb3ppbGxhJTJGNS4wKyUyOExpbnV4JTNCK0FuZHJvaWQrMTElM0IrU00tQTUw\nNUYrQnVpbGQlMkZSUDFBLjIwMDcyMC4wMTIlM0Ird3YlMjkrQXBwbGVXZWJLaXQlMkY1MzcuMzYr\nJTI4S0hUTUwlMkMrbGlrZStHZWNrbyUyOStWZXJzaW9uJTJGNC4wK0Nocm9tZSUyRjE0My4wLjc0\nOTkuMzQrTW9iaWxlK1NhZmFyaSUyRjUzNy4zNiZkLW1lZGlhLXZvbHVtZT0xMDAmaXMtdW5pZmlk\nLXNlcnZpY2UtdXNlZD10cnVlJmxvYy1ncmFudWxhcml0eT1ub25lJmQtYnJhbmQtbmFtZT1zYW1z\ndW5nJnVmaWQ9JTVCJTdCJTIyc3JjJTIyJTNBJTIyTG90YW1lUGFub3JhbWElMjIlMkMlMjJlbnZl\nbG9wZSUyMiUzQSUyMiUyMiU3RCUyQyU3QiUyMnNyYyUyMiUzQSUyMklENSUyMiUyQyUyMmVudmVs\nb3BlJTIyJTNBJTIyZXlKamNtVmhkR1ZrWDJGMElqb2lNakF5TlMwd09TMHlOVlF4TURvMU1Ub3hN\nVm9pTENKemFXZHVZWFIxY21VaU9pSkpSRFZmUVdkMVkwRTNObWRGTlZvd1UzRlllREJYU1RSWGFG\nZ3dibWhHZFZCeFZWRjNiRmxGU1Vab1FuQnNWMUIzVVhwTVpsQlBjbmg1Tkc1YVYyOTVPV0U0Vmts\nUE9FMXVPSFp3WkZKVVVqSnpNa1pFVFc1WlVuWnRUVFUwVkRKclVrVnBXVUp5VXpCMExYcEpWbmQw\nZWtjeVYyMW9lVzl0YURSd01qaHVNbEIxVFd0MFNVdDBkazUzZUhoa1VXUnpVWGxmY1VwNGJEVlFi\nbXh1YjNKWVNtZ3hVMnhsT1dJek9YTktPVUpHUm10Vk1HVkllamdpTENKdmNtbG5hVzVoYkY5MWFX\nUWlPaUpKUkRVcVVHVlJUbUp4YkVFd2VsTTFaVGsyUjFwNk1YbFZOM2szT0dSWVJqQlFhSEJXYVdK\nQ1NHTnhUMTlTVkY5Zk1teFdabWxzWVVGQlJVSkRiV3BXU0hBNFFXUlhMWE50Y2tkR2VuSmlSalkx\nWDFWRU0yaE1UMmNpTENKMWJtbDJaWEp6WVd4ZmRXbGtJam9pU1VRMUtrdDVTRjlJTlhReFVGWk9S\nMDR6WDJKWlRFUjRWVTQyT0ZwbFUyOW9SVkF3V2toZlNtWllaR0pqWWxSZlh6SnNWbVpwYkdGQlFV\nVkNRMjFxVmtod09FRmtWMTlXWlVkeVVYWmpMVmhLVTAwMmIxZGZjbFZSSWl3aWFXUmxiblJwZEhs\nUVlYSjBibVZ5SWpvaVNVUTFJaXdpYVhORmNuSnZjbEpsYzNCdmJuTmxJanBtWVd4elpYMCUzRCUy\nMiU3RCU1RCZ1LXMtaWQ9NjUzOWUwMWItNjNjNy00ZDI0LTgzNzEtM2QyYzg2OGViY2NhJmQtYXYt\nZGlzaz0xMjgwMCZjX2RhdGE9JTVCJTVEJmQtYWlycGxhbmUtbT0wJmQtYXBwLXNldC1zY29wZT0x\nJnUtaWQtYWR0PTAmZC1tb2RlbC1uYW1lPVNNLUE1MDVGJmQtdG90LWRpc2s9NjU1MzYmY2N0LWVu\nYWJsZWQ9dHJ1ZSZvcy12PTExJmQtZGV2aWNlLXNjcmVlbi1kZW5zaXR5PTIuNjI1JmQtZHJrLW09\nMSZ1LWFwcGRubT1DYXNoTWFmaWEmdS1hcHB2ZXI9MS4xLjQxJmQtb3JpZW50YXRpb249MSZ0cz0x\nNzY3MjEwNzA1NTA0\n",
+        "instance_data": {
+          "network_id": 788,
+          "network_instance_placement_id": 101171,
+          "ecpm_override": 0.01
+        }
+      },
+      {
+        "pmn_id": "facebook",
+        "pmn_app_id": "1157199008757057",
+        "pmn_placement": "1157199008757057_1159720165171608",
+        "pmn_session": "eJx9VV1zmzoQ/SseP7UzNkYgBDRPssEONxgYwGkz5Y5GYDllgk0G47RJp/+9K+EkTW97eWCk/TjaXZ1dfR/TJJlvgtAbfxhjazwZBx5b0MWlz/KMrTOQIpvYBtIJwq6DwWABHr7HAk8qP/8LkjRfsuWcgZxd+2kWxJEEIzZBju5Kl2saJjSlCu57Ma6PTOxPxfhDMd7x5iiK8aQY8/s7dqyfhBITl2DLIY7S9PVePLUHwdrd7ih6ZYBcR5ff2fWeHXve9WLLOsGP7UHZhHQTQSIpW8abyIPwAgMpezh/K8rT7S0vG/FbGErBHnhzGjRRURQzqlTlqW62rH+8f6v5AQluoiC/geQUDuzpYuFnWTAPQpAzP6Lz0Pd+1SdJRNc+SBb8+GXNdzUH6SXNmP8pTkJ646eg67uTMl4msHF3W0KEvUMlsSqB9BKV2BHcNUpECNGlfybPjCOWBwr65eJ0jbgm6Nf0SsqPfH88HW7VVaZpoI76J4hHeCUxvCu4/4QOocsbNid4Yk3sCUITRCYIFo689HngeVDbPL7yo/9yxdZNeaLnR9kAY2jEkPTKFqkPDpd+sLrMQe4gdD71lTpEM3RNfzX+GHj5paSUsgWCZvEmXchUvCD1F/kAAFt+2HZtvYV9nEk4GREays3WQcTeHmNgZQgr+uJHIxrGq4Gmfdvzhu3Fvu0e1Y1bju0QhNwzL3lViUZ07V70omODiasZxLKI0nfg39ftgX1TKkgJEQshy3X/4D7YIM3ChFjY/IPFk7IwNNtwzQGh+sK72/pwO8APLg+8biStf40bWY7p6sRBv8X19ByXZdqu5VjWW/XjS9jYdJBuD03AewhmUBmWNpy664Rgx3teDZ2BTGwYFsLAhqE9PJpTlqSxaopoxeIkhyuQlT+cmkb2TwZUois/kpRYt0910/BiBvCjd2F9OH27GJ2vaITQxShbT6mlW8vRXHZkMUsTRIEyui1pg4yL0deH9yN6f9+Ij6K8qntAMm3NJKN3V5f5OpyMmvpOjFaiumvfj65Fd4RsixmG0xZfZLWLGWSs6ZqNXVcz8WjdlnUjRhnf8a5+Afu8nNMIJsBpW4tDJSLRf227u2XbnUO9WM4zqX/dXQMwggWdF7Oq3Wsdf2wbcWx3/VfeCa2CUbCXo0CaSFsNaVjaz2GDLVhcZ8VsaA7YhItiJg5sNVcjOI5zNWEk3dex54ewfq4TiJabKPJDtohTn/nXUOdM9ZOOJhhhAj/Dhp+uVqZc4QmGdpM/Q/70Vwzoj9WbYTaH6RrKbvy/nGRvZTDgwKx0gW5b03YEcgUndomxjXTH4nxrVDtHxzuzNLZIXIBPGC+owlaZgiDy849xesXym8Q/pxt4SyrDcYltm5xMd2VVTjFwcOq4wp063C2NCtkWKl0ZRZ6nwXwjCQhvGPi9fcCCKMtpOEzr5/mbJM/DRN3I3wkN9d1EeXrzSuxnuPRcnvOE0h7EYVurGfw3KPDL/VegN+PW/5Sn9PkxvT/3nK1ZMH0wDIihKfsjKF4GsjW8ezW8lI+Hiu3qb0wc5KDYSqsfv7weqiilgSvX2VZTl1tiih3iTkt4c6eWUZoVsnYVEnj84yfs4VEt",
+        "instance_data": {
+          "network_id": 550,
+          "network_instance_placement_id": 102032,
+          "ecpm_override": 0.01
+        }
+      },
+      {
+        "pmn_id": "mintegral",
+        "pmn_app_id": "431105",
+        "pmn_placement": "5310495",
+        "pmn_session": "HU3FfAhADnDwHrzUD0TTiANBWnlPHn3wG7jPDUzUinh2ikRP6deI6deADk2AJkPg6dftY+f2YrhlVTTwNnVMfVHIidefNVe6inD/GZ9bi+MeialM4aRAfaSInkK1LkesDZI2WUvlpjeuYg59GBSSYrxBYFQ3RajeGBSnnZ2Sfnv2x0SoJkQsHoKZVacSWURMiahBio9MinRORdJFpZSShdSsH5JQD3wuJoI2iAh/iADlpjwR5j2iWoSsLkwQRjJQDFwXpZSkH+zALkK/WAN/ioSaLdzXYkVXinNAWUv/fANPGZ9AfoSfYFzuY7VlVFcrD+zuWAVAfB9AfgeI6ajbfUhBinvFinNMfAfIi09T6aV9fAtIinDMfbeI6dM2fnhMidMeiANMi+MefADFGav9fni9fA3M6deI6deI6oTe6deI6aSIidMM6aSIi+Me6deI6dMe6aSI6deIfFRMfAjMDA3FfkzUfF5tHniPf7DTf7ztGk5tHnVFH7HIGahB6aNMf+eIideI6dMeWUSIidMeWUj=",
+        "instance_data": {
+          "network_id": 703,
+          "network_instance_placement_id": 264112,
+          "ecpm_override": 0.01
+        }
+      }
+    ],
+    "exchange_data": {
+      "ad_transparency": true,
+      "sdk_session_id": "e33cb17a-5665-4ef3-a5e1-1f7839d1d1b4",
+      "experiments": [],
+      "mediation_session_id": "5729789362327376591",
+      "sdk_init_timestamp": 1767210612047
+    }
+  },
+  "contextual_data": {
+    "user_sessions": [
+      {
+        "age": 171,
+        "dur": 17,
+        "imp": 0,
+        "cli": 0,
+        "com": 0
+      },
+      {
+        "age": 207,
+        "dur": 24,
+        "imp": 0,
+        "cli": 0,
+        "com": 0
+      },
+      {
+        "age": 93,
+        "dur": 93,
+        "imp": 1,
+        "cli": 0,
+        "com": 0
+      }
+    ]
+  },
+  "marketplace_sdk_params": {
+    "client_params": {
+      "time_difference": 330
+    },
+    "device_params": {
+      "dnd": false,
+      "apnm": false,
+      "d_api": 30,
+      "is_muted": true,
+      "headset": false,
+      "battery_charging": false,
+      "battery_level": 4,
+      "low_power_mode": false,
+      "ciso": "in",
+      "dark_mode": true,
+      "media_muted": false
+    },
+    "content_params": {},
+    "sdk_experiments": {
+      "experiments": [
+        {
+          "id": "fmp_endcard_android",
+          "v": "FmpEndcardEnabled_v1.1.14"
+        },
+        {
+          "id": "dynamic_close_btn_endcard_20_dp_android",
+          "v": "CloseBtnVisible20dpClickable20dp"
+        },
+        {
+          "id": "dynamic_close_btn_endcard_30_dp",
+          "v": "CloseBtnVisible30dpClickable30dp",
+          "d": [
+            1296,
+            1298,
+            948
+          ]
+        },
+        {
+          "id": "dynamic_close_btn_endcard_smaller_android",
+          "v": "CloseBtnVisible17dpClickable17dp",
+          "d": [
+            1184,
+            1376,
+            1377,
+            1358,
+            1360,
+            1361,
+            1393,
+            1362,
+            1394,
+            1395,
+            1140,
+            1045,
+            1141,
+            1046,
+            1142,
+            1210,
+            1051,
+            1052,
+            893,
+            1054
+          ]
+        },
+        {
+          "id": "dynamic_close_btn_endcard_android",
+          "v": "CloseBtnVisible26dpClickable26dp"
+        },
+        {
+          "id": "video_clickability_android",
+          "v": "WholeVideoIsClickableWithoutCTA"
+        },
+        {
+          "id": "dual_endcard_android",
+          "v": "dualEndcardEnabled",
+          "d": [
+            842,
+            908,
+            910,
+            911,
+            914,
+            851,
+            855,
+            920,
+            922,
+            987,
+            931,
+            932,
+            871,
+            939,
+            940,
+            879,
+            880,
+            1012,
+            949,
+            1013,
+            886,
+            950,
+            951,
+            952,
+            953,
+            889,
+            890,
+            1019,
+            892,
+            893,
+            894
+          ]
+        },
+        {
+          "id": "dynamic_close_btn_display_android",
+          "v": "close_btn_visible_17dp_clickable_17dp",
+          "d": [
+            1184,
+            1376,
+            1377,
+            1064,
+            1358,
+            1360,
+            1361,
+            1393,
+            1362,
+            1394,
+            1395,
+            1140,
+            1045,
+            1141,
+            1046,
+            1142,
+            1210,
+            1052,
+            893,
+            1054
+          ]
+        },
+        {
+          "id": "dynamic_close_btn_display_20_dp_android",
+          "v": "close_btn_visible_20dp_clickable_20dp"
+        },
+        {
+          "id": "load_timeouts_android",
+          "v": "configD"
+        }
+      ]
+    },
+    "gdem_signal": "ABPQqLES8_t16wFozADPl6rOHmy2ERkam6Ll_yCgt9ThPrwISM226u1hXTHFzC5VZ9XHfY3En9unrMcwAlqvZBMCe0NtcbtoAapf-J4X_C5TCPTPifjG4LjLB46tyiYEJGevb2sIqTYnfjlgMUuEsmPyknOVKA4Map9SsQo10Civsw-BbQBLFcWpFiGqNRGovjNHBtJnPsdprxTClPdwuXe8eV2DVHsidyijB_bI4c84msCwx8T8km5__6JvpwOv-iXi-al0gvrhFQydNiscx1Ma2t4MN1s-H2GzLp2m6Pweg_UkJuvYzrgUT7jcJdEPdYq3S_FM2RdFWAnmTE_HbAplF56jKzW_-dH2VI-01ErvjBHhj6Zlpiou-6vYhhh87P2G52F02MEf3jK_WCE1SMoMilSpyIrhAFA5VXtQqBljLc4dbqNGbuAZDWDmtj1q2vhdkwKoQn-mrqpdcIdtjqh-jJM1jbR9T6ttLuZ6SCrHH0fsZl2M3xwhTyQa9hdcuULMRNuEWQ8PRKQw5md4a75B2_1B_xYwUlbTkhO0xR0Jv20HLz3tpcsn2fxborLV-0bmz8SHvDHjrHcDYipqNLVXAgVtidwkFlc-MrZRNNf8A74ToD4d1Vi15RF66jQga6i0HIFI7fPA6QOYOXB9BYgEvv7OLAlbNYRFixb6ILunRG9nhDnlSnF2EAponvkqHkbGx9Ij1DpKgx0jNRqhGvnfDWGqnnBN-2qmtap1E4DnCFCUhGhjGAJqp6a_1l3OpO8UdvjuHKj1wI0RvD6I-_v2v5W0xIxYCgb_5OotmkUAtLKNZZ4szcE495ZZmRKJ5t4HQYP2PcoYAqTaB-HjDOFjEoLP9LCAMhFNHW8FYvihVcmvBJczaiqLJH3KBBVRmR3CsISxjxX3dGg1hLHfwW_dByhNRp0MreFtEg6JrEJMqfw2QYEExpiFgnoBRk9NJla_8WCp6Ot4M8fnOT3g7TPv-fIBuktRnAxFG-IjnYtHCQKfTIf37kDKiNcn5Jj-w4SGxmd4cCc90SQjUuTo3PDLN1X05EMZawxbdIO5MMakw0JGZ0RJQ7P7bG4hJRrL_jTcTaYD0NZanHyZ1cCViNaKxV3nxsK0HrredBRYfRtykv36dO8cQrEWKbPi8ZCUkw-6DK0gqlPtpXSQdqSOK5gtD-PVoU6r2DvquBIR2vnd4gRY01Stq-j30YemfrbdwwHfZnbddDBLYzc5u7fLj7bp5Ve6w-c-NvERXRwIukSpIn1Xnx5lYMBNJXAXOV6giqrh8Upvp_J2T--RrwG-AcXVwVpjn9QCS3_CtJkM2m7gzj6pp9DpycrK1ckKCxOL0EWBhbLCwKM9fgUSufTwjNsICgdzIiC2n-osT8jmdezEBB3GCPXqoRfbkqPwZ5VmA5wD8FdwG-E5KW56tP3Ny4FYD9trzWfKPe-U-isztz7NXQAh5e6wuTeLYZoBhWhyaF_IIF07YBaD8rlDIIzbCVClN2GqmKb_cHB17x_ONsf_3yUGPRUnDJnqB3bavgIDVKN2ek19YZdwFTMjWAmTJukBpo0PXxKX14cia04ElbrxNLyozKLSKn9105vI_RP0MAldK1oRX0TTr17JuVJaeqZHE2nGX4cYAZS72vh2WzmX5u_NjP4wPsmskqjoPWmgo-9Y2NkjJVflYnVmq-Ll52rJhe2RY6C5CZ3ZmLDNuwH5yp9O2itAlrMyxc4e0BMYEI_wGrMDpGon5ahd9lHx6noKukZYVOM_5iYX1L2_p5bHpLtYP_YFDeLAuVUKbFpCLV99deENT05lukP9mSFZtRBpIp5c4FYzbVAEObNBlYdx-7e3h0qa57evTQWSUhUi_aBfC15hglBJPw01HR8x6gb2Rq6lsJWGTObYcgC1H5JrZ3XSm_RqZjEetrKo3jUksUSFrZoNqxTuC6_qvsketvjjh2bvsPYy-q-8m-MIG-pUaVwmDK3YCMjxosK0ZX84ZQlkQ6BUGy4LA5yYlAjpiA-pSe7yehGtSuTt9bmdse41vKFcyf97iDq5yMQyi9oQnXyrOnRChHKgKbw1tUItL0Zc_X9_kuUbvnvgIhkZZizdqS889-90CsCWdDEBixhrE0936yAt8Q1NRXq87kKVR0tk63BvUKiK9BR8CPcny6hKwrE6EwBTeBy4690TxjjQ2RwbSF-pK04zcFw2pIjptpuK4_-CQGaqzBRZzBxLP7GN870EF5zmzFc4_8yMYtzpJkmrdqG4MgG7ExbZaIyao9dlO1pX4S61XAXhUTm9Ju8Wy12yphdfyxJ0eKMs5UlCaU4D-l9wDJDh9g2qnkXg-ubSBDrdFa7a0xS69UVOsMnyzfN1shH1jDl95Mn1V0CsmFsSdYrffQroh_BJnF4s7ux-AbyqLFLN-_X5XoCcnYIEeyEc2jM7SHS8_KpV5aBbSJPJw0iiQHchSSJHh9R2W-c2gebb6v8KHybuzbwiPuRc6ZUw2El3zg6ToxNhWML4TBxRu961RdeOZeU32f2cjkmVWrPtvb4NoL6gIxR-LwNiAonF9fSjpCCa0Uv4w8XBXXzMVx8fY7T2gjHmEeRR66-LAeQcbE5qw5G-hIW0M8W3bKLfnV_zWRxeWCK8PAIenvnZCmmnwvyecQVzMGb0rqcioPrrKolpI6EOCEnajUnOLlhWecEgWvDsXr01g5xPeopfJiOehYcpvn8EmGpRLLUnkArHDFiLZQ9HTJmKzLJi_-jCnBMia1h6XGJsGPZdbfr5QGkRKtnfyQFyMmLI_vsUQABBHc_4bF4DEOd8v-J4GK2afilPD57jSVCZ6Js9t9gAQ4RBRn8iDp5127OZcg9Og85TOJlL1VAx8hM6HChHD50c73XOZZEyiIZNT7TmO--7CBSEhifluKBYzclA9UoNSggALmoFV8hs5bcNUj4IXt6tjOxSLwVAy-pYJSkEOpYtHktVycgoVqQPGfODTnfg7ztNHIPiqQyLPj_k5B9H4hVkFPLZmW-XTGSPP0RI5Vs8vq4T1l0e5g-ss6Y4GkFHDcw4G2pw-KMCCosi2YtDY2mnEhfw1p55HYf2ek1d2nqLMh4fCeWjywXF6daPQFRB4dWqm5gXM_IWSx2o4scxuT8BHlBt_mBuMXkOM_IVHeSvu7aL10-UA1YdBJjLqSUXWaVKk70_OZyp4LrOdxnvdsBXkAdNfsMpl5HEB-3pKamcBiLTqcsQM3dBF3LOkskV6amlAog_O0eiBBbVrZpaGqrS_Squ6gRy4M0r9KcOVUcHoDoMAcR28Z4aXLGVZRL1k3nTrSmBuxcb52di4BvbvjQ9YyS8k4GRFuBfdPmzRuC24bnfKG0f6YrDHOW5RKPpklvdOYbX9jfQGQBG9fLUCylw-t09UE2aUV-iPNOS4XKcFbWaipwhHNARUVyj9tI-wxt8-4ufm-PID4khzW9o-NkdUNAg0hWazcgfRGoeFO_MeX89bpTahNijpfigur5Yz5NAhbtiq_lnHQQvE3F42A0kInzyGuF-Ih8-Vo7qu0VnUp-iWQNU-R2nHUlFiLhMbD1uXY6BxMvK_1cfwpELO9QbF6SIydTvaK6cNhD-pz9EmLHtOuo2VWkoU6HG_o0veQfByNVHWkrVFUdqR5uyl_1vyhyg9BKpCTrXT_x-AFpCilHgvl9zrilYpDm9a064v4f6kp8wE4itMBzzuetEhLTQ8eI2ZBySFogDPZCX9hYEOsoBjoWQgkPs8Km5la2GejBfyAZXhR89wbAQDPerj_XD15n96RdKhOGXmLXqDIOrotuzfaYN1xt8NPAz34eFXpidAYEZ6Lb-783fH_wjynwAHfl3K7GZ0ryl41SjzFnU1Lg_UQpvCz0XXSDCgDQJ2xfD5Vucfn8WTQ8x",
+    "version": "2.2.0-Android-8.3.8"
+  }
+  }
