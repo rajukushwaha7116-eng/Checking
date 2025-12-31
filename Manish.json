@@ -1,0 +1,376 @@
+{
+  "client_params": {
+    "coppa_applies": false,
+    "is_child": false,
+    "bundle_id": "com.rayolesoftware.cashmonkey",
+    "android_advertising_id": "f96773a6-fbcb-4342-89e9-8a9b2c1751b9",
+    "app_set_id": "4bdabe6f-4011-cc85-1fef-70092b3f6d20",
+    "app_set_id_scope": "dev",
+    "publisher_supplied_user_id": "mtTwfNPElDPZMjOwEyFnssBg3VE3",
+    "install_id": "8d42c729-87d5-4c9c-b7b5-e6f7b413e4f4",
+    "sdk_session_id": "4ebd20bb-4195-419f-9989-5605a05b66b0",
+    "disable_marketplace": false,
+    "privacy": {
+      "do_not_track": false
+    }
+  },
+  "sdk_params": {
+    "api": [
+      5
+    ],
+    "protocols": [
+      2,
+      5
+    ]
+  },
+  "device_params": {
+    "height": 812,
+    "width": 411,
+    "language": "en",
+    "device_model": "samsung SM-A505F",
+    "framework_name": "native",
+    "input_languages": [
+      "en-US"
+    ]
+  },
+  "location_params": {
+    "mobile_country_code": "405",
+    "mobile_network_code": "872",
+    "network": "wifi",
+    "carrier": "JIO 4G"
+  },
+  "request_params": {
+    "version": "2.2.0-fairbid-android-3.62.0",
+    "secure": 0,
+    "supported_types_bitwise": 372,
+    "ad_request_id": "21c35df1-e915-456d-aac7-126774ef3d47"
+  },
+  "unit_params": {
+    "app_version": "1.0.43",
+    "placement_id": 2052855,
+    "unit_id": 2533535
+  },
+  "mediation_auction_data": {
+    "mediation_bids": [
+      {
+        "request_outcome": "no_fill",
+        "placement_id": "/22734621065,22897668942/gam-app-rayole-rv-17-cash-22dec25-set1",
+        "instance_data": {
+          "network_id": 924,
+          "network_instance_placement_id": 296026,
+          "predicted_ecpm": 5.357,
+          "ecpm_override": 7.92
+        },
+        "rank": 1
+      },
+      {
+        "request_outcome": "no_fill",
+        "placement_id": "/22734621065,22897668942/gam-app-rayole-rv-15-cash-22dec25-set1",
+        "instance_data": {
+          "network_id": 924,
+          "network_instance_placement_id": 296025,
+          "predicted_ecpm": 5.357,
+          "ecpm_override": 6.8
+        },
+        "rank": 2
+      },
+      {
+        "request_outcome": "no_fill",
+        "placement_id": "/22734621065,22897668942/gam-app-rayole-rv-12.5-cash-22dec25-set1",
+        "instance_data": {
+          "network_id": 924,
+          "network_instance_placement_id": 296024,
+          "predicted_ecpm": 5.357,
+          "ecpm_override": 5.68
+        },
+        "rank": 3
+      },
+      {
+        "request_outcome": "no_fill",
+        "placement_id": "/22734621065,22897668942/gam-app-rayole-rv-10-cash-22dec25-set1",
+        "instance_data": {
+          "network_id": 924,
+          "network_instance_placement_id": 296023,
+          "predicted_ecpm": 5.357,
+          "ecpm_override": 4.54
+        },
+        "rank": 4
+      },
+      {
+        "request_outcome": "no_fill",
+        "placement_id": "/23326865470/ecpm_DEEPAK_D_7",
+        "instance_data": {
+          "network_id": 924,
+          "network_instance_placement_id": 296016,
+          "predicted_ecpm": 5.357,
+          "ecpm_override": 4
+        },
+        "rank": 5
+      },
+      {
+        "request_outcome": "no_fill",
+        "placement_id": "/22734621065,22897668942/gam-app-rayole-rv-7.5-cash-22dec25-set1",
+        "instance_data": {
+          "network_id": 924,
+          "network_instance_placement_id": 296022,
+          "predicted_ecpm": 5.357,
+          "ecpm_override": 3.42
+        },
+        "rank": 6
+      },
+      {
+        "request_outcome": "fill",
+        "winner": true,
+        "placement_id": "/23326865470/ecpm_DEEPAK_D_5",
+        "instance_data": {
+          "network_id": 924,
+          "network_instance_placement_id": 296015,
+          "predicted_ecpm": 5.357,
+          "ecpm_override": 3
+        },
+        "rank": 7
+      }
+    ],
+    "pmn_bids": [
+      {
+        "pmn_id": "Inmobi_PMN",
+        "pmn_app_id": "c402601c3c044379b2bb05b6631cdb55",
+        "pmn_placement": "10000456451",
+        "pmn_session": "ZC10ZXh0c2l6ZT0zNy4wJnR6PTE5ODAwMDAwJmQtYXBpLWxldj0zMCZkLWJhdC1sZXY9NzYmYUtW\nPTEmZC1uZXR0eXBlLXJhdz0xJmQtZGV2aWNlLXNjcmVlbi1zaXplPTQxMVg4MTEmdS1hcHBzZWN1\ncmU9MCZzLWhvPTQwNV84NzImbG9jLWFsbG93ZWQ9MSZjb25zZW50T2JqZWN0PSU3QiU3RCZkLWRl\nbnNpdHktZGVwZW5kZW50LXNjcmVlbi1zaXplPTEwODB4MjEzMSZkLWJhdC1jaHJnPTAmZC1tYW51\nZmFjdHVyZXItbmFtZT1zYW1zdW5nJmlrPWFjJTJDYmlkJTJDaXRzJTJDdnRtJTJDcGxpZCUyQ2Nh\ndGlkJTJDaGNkJTJDaHN2JTJDaGN2JnUtaWQtbWFwPSU3QiUyMkdQSUQlMjIlM0ElMjJmOTY3NzNh\nNi1mYmNiLTQzNDItODllOS04YTliMmMxNzUxYjklMjIlN0QmZC1sb2NhbGl6YXRpb249ZW5fR0Im\nZC1kbmQ9MCZkLWxhbmd1YWdlPWVuJnMtY249SklPKzRHJnUtYWdlLXJlc3RyaWN0ZWQ9MCZzLWNv\nPTQwNV84NzImZC1rZXktbGFuZz0lNUIlMjJlbiUyMiU1RCZkLWJhdC1zYXY9MCZpbS1leHQ9JTdC\nJTIyY29wcGElMjIlM0FmYWxzZSUyQyUyMnB1YkdkcHJEcGFTaWduZWQlMjIlM0FmYWxzZSUyQyUy\nMmFwcGx5R2RwckFnZU9mQ29uc2VudCUyMiUzQWZhbHNlJTdEJmF1ZGlvT2JqZWN0PSU3QiUyMmEt\nYXVkaW9CYW5uZXJFbmFibGVkJTIyJTNBJTIydHJ1ZSUyMiU3RCZkLXctaD0wJm1rLXZlcnNpb249\ncHItU0FORC0xMC44LjctMjAyNTA3MzAmcy1pc289aW4mZC1hcHAtc2V0LWlkPTRiZGFiZTZmLTQw\nMTEtY2M4NS0xZmVmLTcwMDkyYjNmNmQyMCZzRGF0YT0lN0IlMjJzdCUyMiUzQTE3NjcxNTYyNTEz\nMDAlMkMlMjJjbnQlMjIlM0E2JTJDJTIydS1yZXQlMjIlM0EwJTJDJTIyZGVwJTIyJTNBJTVCMCUy\nQzAlMkMwJTJDMCU1RCU3RCZ1LWFwcGJpZD1jb20ucmF5b2xlc29mdHdhcmUuY2FzaG1vbmtleSZo\nLXVzZXItYWdlbnQ9TW96aWxsYSUyRjUuMCslMjhMaW51eCUzQitBbmRyb2lkKzExJTNCK1NNLUE1\nMDVGK0J1aWxkJTJGUlAxQS4yMDA3MjAuMDEyJTNCK3d2JTI5K0FwcGxlV2ViS2l0JTJGNTM3LjM2\nKyUyOEtIVE1MJTJDK2xpa2UrR2Vja28lMjkrVmVyc2lvbiUyRjQuMCtDaHJvbWUlMkYxNDMuMC43\nNDk5LjM0K01vYmlsZStTYWZhcmklMkY1MzcuMzYmZC1tZWRpYS12b2x1bWU9MCZpcy11bmlmaWQt\nc2VydmljZS11c2VkPXRydWUmbG9jLWdyYW51bGFyaXR5PW5vbmUmZC1icmFuZC1uYW1lPXNhbXN1\nbmcmdWZpZD0lNUIlN0IlMjJzcmMlMjIlM0ElMjJMb3RhbWVQYW5vcmFtYSUyMiUyQyUyMmVudmVs\nb3BlJTIyJTNBJTIyJTIyJTdEJTJDJTdCJTIyc3JjJTIyJTNBJTIySUQ1JTIyJTJDJTIyZW52ZWxv\ncGUlMjIlM0ElMjJleUpqY21WaGRHVmtYMkYwSWpvaU1qQXlOUzB3T1MweU5WUXhNRG8xTVRveE1W\nb2lMQ0p6YVdkdVlYUjFjbVVpT2lKSlJEVmZRVzlKVVU1UFFrZFVNMnM0UkhCR2VITkVNMlJKYTNo\naWMzZzBZVE5XUjFwME1sZE1RMWxYY1RoZlJUUlNNbXhNVG1oVVUxTmhOR0pFU3kxRlZtVnBSREJV\nVkdKRGFubG9OamgyUjBGUVZsbGtXVzFNTTB4UFRqWTRaMEV3T0doM1luTm9WMFJyZDIweE1GSllk\nRkV6TUVOamRuWmpOamhsWkZVNE1FMVNlblZ5ZVRNM2JVTjVNbTVzVVRrNVJVSlhVbTF2ZEVSc1Fr\ncHFUbFUyU0ZveFZUTklNRkV5U2xKRWRVOUJkMkprYzFFeFUzY2lMQ0p2Y21sbmFXNWhiRjkxYVdR\naU9pSkpSRFVxYUU1eU9FOVpXSFZOTkVZelJsTndhemRYVFhwdFJuVktNalYyV1ZaaWJVdzNPWE4z\nU1hORldEUk1WRjlmTW14VlRtSjBZVUZCUlVKRGJXcFdTSEE0UVdSUldHeEhTblJGWVZwSVVVWXpM\nVkJTVFZSMlRXY2lMQ0oxYm1sMlpYSnpZV3hmZFdsa0lqb2lTVVExS2taRlpuUjRjVkZVVERSd05W\nVlhNRU5ZT1dKcWFXVklZV1I2TWxnMGJFVjBWM2h1WW5CRlp6bFpNak5mWHpKc1ZVNWlkR0ZCUVVW\nQ1EyMXFWa2h3T0VGa1VWVlJWVjgxTmpaalkwbGtaMUpmWWxveFNYWkJJaXdpYVdSbGJuUnBkSGxR\nWVhKMGJtVnlJam9pU1VRMUlpd2lhWE5GY25KdmNsSmxjM0J2Ym5ObElqcG1ZV3h6WlgwJTNEJTIy\nJTdEJTVEJnUtcy1pZD0wZGJiNjY0OS05MDBkLTQ1ZTktYjBkNy1kZDVlYzRiZmNkZWEmZC1hdi1k\naXNrPTEwOTkwJmNfZGF0YT0lNUIlMjJTTW5FNEdtZm5xbldkSXIzT3FQMHppWnkxNzNFQXlENUpU\nTzdXSHJHejV2UTRiMUNMT05qaWc0Nk1NZGQ1ZEklNUMlMkZKakkwV3VJdkZ4anB4Y0hqVk9lRWwl\nNUMlMkZvanVFdFNkRWdiTzNxa1hMJTJCNGhWayUzRCUyMiU1RCZkLWFpcnBsYW5lLW09MCZkLWFw\ncC1zZXQtc2NvcGU9MiZ1LWlkLWFkdD0wJmQtbW9kZWwtbmFtZT1TTS1BNTA1RiZkLXRvdC1kaXNr\nPTY1NTM2JmNjdC1lbmFibGVkPXRydWUmb3Mtdj0xMSZkLWRldmljZS1zY3JlZW4tZGVuc2l0eT0y\nLjYyNSZkLWRyay1tPTEmdS1hcHBkbm09Q2FzaCtNb25rZXkmdS1hcHB2ZXI9MS4wLjQzJmQtb3Jp\nZW50YXRpb249MSZ0cz0xNzY3MTU2NTE0NDU2\n",
+        "instance_data": {
+          "network_id": 788,
+          "network_instance_placement_id": 101168,
+          "ecpm_override": 0.01
+        }
+      },
+      {
+        "pmn_id": "facebook",
+        "pmn_app_id": "407317715587680",
+        "pmn_placement": "407317715587680_407340985585353",
+        "pmn_session": "eJx9VW2PmzgQ/itRPl2lvGAwxmQ/OYFkuSUQAdm2KieLF7NFS8KKkG13q/73G5tst9trL4qQPfPMM+PxzPjbmO12y73nO+PFGOPxZOw5fMVW1y5PYr6NQYosYiGTGKaGDR0AK7BwHe45UvnpH5BEyZqvlxzk/NaNYi8MJBmxCKKaLTlvmb9jEVN039JxfeLicE7Hi3RcZc1JpONJOs4e7vmpfhZKbGkEm4iaStPXB/HcHgVvq+okegVANtXk72L6wE991vWi5J3ITu1RYXy2D+AgEV+H+8CB8DwdKTz4L0V+vrvL8kb8EoZS8MesOQ+aIE3TOVOq/Fw3Je+fHt5qvsMB94GXfITDKR7Ys9XKjWNv6fkg527Alr7r/Kzf7QK2dUGyyk6fR9v2eC+eQH7NYu5+CHc+++hGoO27s4Kvd7AhmciJbWfIwoZtV0VV5RRlmUWtXLdxZQMwll7DgCeeIr9cnUb0GdGlfstupPyUHU7n4526zCjylKu/vXCEN5LDuYEK2LEheHnHxgRPzIk1QWiCyATBgsprX3qOA9lNwhs3+G+1IFtDAHLcIB5oZAym5F9FLhhcu97mOgE5Reji9bV4yEzXZtor+L3nJNeyqBQWSjQO99FKHsXxIneVDASwzY5l19Yl7MNY0smI0JBwvvUC/taNjhUQVuyHHQuYH26GQu3bPmv4QRza7knduUktShCyCR0KryhEI7r2IHrR8QtkplNq2chSiA4Y+ro98q9KCYeiFCNim7+xf4FQSnVMf+fhWSHoDOkIGboCFJ+z7q4+3g22g81jVjeytH+OHJlUt6gGvt/G9fwSl6FRWye/RD3YTkFtU9Mg9mCcZz1EM+gsazZ4rToh+OkhK4buQMjUMdKpJVMlW8RhCeO7KFSNEWx4uEvgEmTuj+emkT0UQzGxjRvIoti2z3XTZOncnGmjv/z6eP56Nbpc0gihq1G8nTJTM9ejpezKdB7tEIOi0SxZOEi/Gn15fDdiDw+NeC/ym7oHJsOaGWT01811svUno6a+F6ONKO7bd6Nb0Z3guOkcg7fVZ5nudI6wMdNmFrbtmYGhRfO6EaM4q7Ku/kH2ab1kAUyBc1mLYyEC0X9pu/t1211CvVovY6l/3d0CMYIFW6bzoj3MuuypbcSprfovWSdmBYyDg5oGEiPBEAM2YLOEDcawuI3T+dAfsPFX6Vwc+Wap5nAYJmrMyIrfho7rw/olUSBa74PA9fkqjFzu3kKiY9VSGppghAl8dAs+mloZcoUnGDpOfnT50V45oEU2bybaEkasLxvyfw8l+yuGIafaXghqwZ/S3MoLM7cJZNzAUIPYFNQkxEBlpWlXYOOHK6bI1VFBELjJ+zC64cnHnXs5r+esmYzHJpZlZGRa5UU+xcA3pbawpzSzc71AlolyOQhZkkTeci9LEF4ysHv7jHlBnDB/mNkvM3i3exko6kr+XNKQ4H2QRB9fS/uFLrrk5zKlZo/iWNZqDv+JCuwS95Xozch1PyQRe3lSH1TX6VhDC2xr2gIVJVkYooSVVuBFRUq6IJWpL4iuD6OlP4HJ67ge3sUaXtKnY8Gr+isXRzlESon6/tPbotJlkoyYGUXTAtt0iiGz01wY9hRlZllqVmGWVB9//xeWflmO",
+        "instance_data": {
+          "network_id": 550,
+          "network_instance_placement_id": 102030,
+          "ecpm_override": 0.01
+        }
+      },
+      {
+        "pmn_id": "mintegral",
+        "pmn_app_id": "431106",
+        "pmn_placement": "5310501",
+        "pmn_session": "HU3FfAhADnDwHrzUD0TTiANBWnlPHn3wG7jPDUzUinh2ikRP6deI6deADk2AJkPg6dftY+f2YrhlVTTwNnVMfVHIidefNVe6inD/GZ9bi+MeialM4aRAfaSInkK1LkesDZI2WUvlpjeuYg59GBSSYrxBYFQ3RajeGBSnnZ2Sfnv2x0SoJkQsHoKZVacSWURMiahBio9MinRORdJFpZSShdSsH5JQD3wuJoI2iAh/iADlpjwR5j2iWoSsLkwQRjJQDFwXpZSkH+zALkK/WAN/ioSaLdzXYkVXinNAWUv/fANPGZ9AfoSfYFzuY7VlVFcrD+zuWAVAfB9AfgeI6ajbfUhefnDAfa39infIi09T6aV9fAtIinDMibeI6dM2fnhMidMeinVMibMefADFGav9fni9fA3M6deI6deI6oTe6deI6aSIidMM6aSIi+Me6deI6dMe6aSI6deIGkjefaJUHUh9iaVBDrjbDFRbfrcrfnttHrHtik53DUcIGahB6aNMf+eIideI6dMMWUSIidMeWUj=",
+        "instance_data": {
+          "network_id": 703,
+          "network_instance_placement_id": 264115,
+          "ecpm_override": 0.01
+        }
+      }
+    ],
+    "exchange_data": {
+      "ad_transparency": true,
+      "sdk_session_id": "4ebd20bb-4195-419f-9989-5605a05b66b0",
+      "experiments": [],
+      "mediation_session_id": "5986342911030193929",
+      "sdk_init_timestamp": 1767156348733
+    }
+  },
+  "contextual_data": {
+    "user_sessions": [
+      {
+        "age": 2149,
+        "dur": 40,
+        "imp": 0,
+        "cli": 0,
+        "com": 0
+      },
+      {
+        "age": 33842,
+        "dur": 178,
+        "imp": 1,
+        "cli": 0,
+        "com": 1
+      },
+      {
+        "age": 26039,
+        "dur": 74,
+        "imp": 0,
+        "cli": 0,
+        "com": 0
+      },
+      {
+        "age": 30059,
+        "dur": 3415,
+        "imp": 0,
+        "cli": 0,
+        "com": 0
+      },
+      {
+        "age": 31550,
+        "dur": 1468,
+        "imp": 0,
+        "cli": 0,
+        "com": 0
+      },
+      {
+        "age": 25746,
+        "dur": 2825,
+        "imp": 1,
+        "cli": 0,
+        "com": 1
+      },
+      {
+        "age": 168,
+        "dur": 168,
+        "imp": 1,
+        "cli": 0,
+        "com": 0
+      }
+    ]
+  },
+  "marketplace_sdk_params": {
+    "client_params": {
+      "time_difference": 330
+    },
+    "device_params": {
+      "dnd": false,
+      "apnm": false,
+      "d_api": 30,
+      "is_muted": false,
+      "headset": false,
+      "battery_charging": false,
+      "battery_level": 7,
+      "low_power_mode": false,
+      "ciso": "in",
+      "dark_mode": true,
+      "media_muted": true
+    },
+    "content_params": {},
+    "sdk_experiments": {
+      "experiments": [
+        {
+          "id": "dynamic_close_btn_endcard_20_dp_android",
+          "v": "CloseBtnVisible20dpClickable20dp"
+        },
+        {
+          "id": "dynamic_close_btn_endcard_30_dp",
+          "v": "CloseBtnVisible30dpClickable30dp",
+          "d": [
+            1296,
+            1298,
+            948
+          ]
+        },
+        {
+          "id": "dynamic_close_btn_endcard_smaller_android",
+          "v": "CloseBtnVisible17dpClickable17dp",
+          "d": [
+            1184,
+            1376,
+            1377,
+            1358,
+            1360,
+            1361,
+            1393,
+            1362,
+            1394,
+            1395,
+            1140,
+            1045,
+            1141,
+            1046,
+            1142,
+            1210,
+            1051,
+            1052,
+            893,
+            1054
+          ]
+        },
+        {
+          "id": "dynamic_close_btn_endcard_android",
+          "v": "CloseBtnVisible26dpClickable26dp"
+        },
+        {
+          "id": "dynamic_close_btn_display_android",
+          "v": "close_btn_visible_17dp_clickable_17dp",
+          "d": [
+            1184,
+            1376,
+            1377,
+            1064,
+            1358,
+            1360,
+            1361,
+            1393,
+            1362,
+            1394,
+            1395,
+            1140,
+            1045,
+            1141,
+            1046,
+            1142,
+            1210,
+            1052,
+            893,
+            1054
+          ]
+        },
+        {
+          "id": "dynamic_close_btn_display_20_dp_android",
+          "v": "close_btn_visible_20dp_clickable_20dp"
+        },
+        {
+          "id": "load_timeouts_android",
+          "v": "configD"
+        },
+        {
+          "id": "video_clickability_android",
+          "v": "WholeVideoIsClickableWithoutCTA"
+        },
+        {
+          "id": "dual_endcard_android",
+          "v": "dualEndcardEnabled",
+          "d": [
+            842,
+            908,
+            910,
+            911,
+            914,
+            851,
+            855,
+            920,
+            922,
+            987,
+            931,
+            932,
+            871,
+            939,
+            940,
+            879,
+            880,
+            1012,
+            949,
+            1013,
+            886,
+            950,
+            951,
+            952,
+            953,
+            889,
+            890,
+            1019,
+            892,
+            893,
+            894
+          ]
+        },
+        {
+          "id": "fmp_endcard_android",
+          "v": "FmpEndcardEnabled_v1.1.14"
+        }
+      ]
+    },
+    "version": "2.2.0-Android-8.3.8"
+  }
+      }
